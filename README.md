@@ -1,2 +1,2 @@
 # hello-world
-This is firs project
+This is first modification of a project
